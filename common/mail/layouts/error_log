@@ -1,0 +1,13 @@
+[30-Sep-2016 14:24:42 Asia/Ho_Chi_Minh] PHP Fatal error:  Using $this when not in object context in /home/trucviet/public_html/demo/common/mail/layouts/html.php on line 8
+[30-Sep-2016 14:25:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Using $this when not in object context in /home/trucviet/public_html/demo/common/mail/layouts/text.php on line 8
+[01-Oct-2016 20:03:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Using $this when not in object context in /home/trucviet/public_html/demo/common/mail/layouts/text.php on line 8
+[02-Oct-2016 08:55:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Using $this when not in object context in /home/trucviet/public_html/demo/common/mail/layouts/html.php on line 8
+[02-Oct-2016 09:34:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Using $this when not in object context in /home/trucviet/public_html/demo/common/mail/layouts/text.php on line 8
+[02-Oct-2016 16:18:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Using $this when not in object context in /home/trucviet/public_html/demo/common/mail/layouts/html.php on line 8
+[02-Oct-2016 16:25:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Using $this when not in object context in /home/trucviet/public_html/demo/common/mail/layouts/text.php on line 8
+[02-Oct-2016 22:24:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Using $this when not in object context in /home/trucviet/public_html/demo/common/mail/layouts/html.php on line 8
+[03-Oct-2016 06:43:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Using $this when not in object context in /home/trucviet/public_html/demo/common/mail/layouts/html.php on line 8
+[03-Oct-2016 09:47:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Using $this when not in object context in /home/trucviet/public_html/demo/common/mail/layouts/html.php on line 8
+[04-Oct-2016 10:10:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Using $this when not in object context in /home/trucviet/public_html/demo/common/mail/layouts/text.php on line 8
+[07-Oct-2016 18:23:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Using $this when not in object context in /home/trucviet/public_html/demo/common/mail/layouts/text.php on line 8
+[07-Oct-2016 18:54:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Using $this when not in object context in /home/trucviet/public_html/demo/common/mail/layouts/html.php on line 8
